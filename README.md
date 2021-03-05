@@ -5,11 +5,11 @@
 ## Model
 
 - K-Means:
-  Silhoutte score: 98%
+  - Silhoutte score: 98%
 - Agglomerative Clustering
-  Silhoutte score: 98%
+  - Silhoutte score: 98%
 - Gaussian Mixture
-  Silhoutte score: 98%
+  - Silhoutte score: 98%
 
 ## Technologies:
 
