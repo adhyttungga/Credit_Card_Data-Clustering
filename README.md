@@ -1,4 +1,4 @@
-# Loan Approval Prediction
+# Credit Card Data Clustering
 
 [![HitCount](http://hits.dwyl.com/adhyttungga/Credit_Card_Data-Clustering.svg)](http://hits.dwyl.com/adhyttungga/Credit_Card_Data-Clustering)
 
