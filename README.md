@@ -6,9 +6,9 @@
 
 - K-Means:
   - Silhoutte score: 98%
-- Agglomerative Clustering
+- Agglomerative Clustering:
   - Silhoutte score: 98%
-- Gaussian Mixture
+- Gaussian Mixture:
   - Silhoutte score: 98%
 
 ## Technologies:
